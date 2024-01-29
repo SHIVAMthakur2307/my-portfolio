@@ -1,0 +1,24 @@
+@media screen and (max-width: 1200px) {
+    #desktop-nav{
+        display: none;
+
+    }
+    #hamburger-nav{
+        display: flex;
+    }
+}
+
+
+/* viedo */
+@media (min-aspect-ratio: 16/9){
+    .back-vdo{
+        width: 100%;
+        height: auto;
+    }
+}
+@media (min-aspect-ratio: 16/9){
+    .back-vdo{
+        width: auto;
+        height: 100%;
+    }
+}
